@@ -1,4 +1,4 @@
 function la
 	clear
-	eza --icons --color=always --group-directories-first -1a
+	eza --icons --color=always --group-directories-first -1a $argv
 end
